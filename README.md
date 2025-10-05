@@ -20,16 +20,6 @@
 
 ---
 
-### 🏆 Data Science Highlights
-
-- 🧠 **Agentic AI at Intuit:** Multi-agent orchestration pipelines → automated annotation → measurable recall gains.  
-- 🗂️ **RAG Chatbot (Morgan Stanley):** LLaMA-3.1-8B-based assistant → ↓ query resolution time by **60%**, ↓ ops cost by **30%**.  
-- 📊 **Forecasting & Optimization:** CNN + Prophet + Exponential Smoothing hybrid → **20% accuracy improvement** in trend prediction.  
-- 🧩 **Emotion Recognition Research:** Fine-tuned transformer models with LLM reasoning for peaceful content recommendations.  
-- 🚀 **Scalable Impact:** Deployed ML models in high-stakes financial and SaaS environments impacting millions of users.  
-
----
-
 ### ⚙️ My Technical Stack (The Playground)
 
 #### 💻 Programming & Tools  
@@ -79,6 +69,16 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF4088?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Caffe](https://img.shields.io/badge/Caffe-DB4437?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 🏆 Data Science Highlights
+
+- 🧠 **Agentic AI at Intuit:** Multi-agent orchestration pipelines → automated annotation → measurable recall gains.  
+- 🗂️ **RAG Chatbot (Morgan Stanley):** LLaMA-3.1-8B-based assistant → ↓ query resolution time by **60%**, ↓ ops cost by **30%**.  
+- 📊 **Forecasting & Optimization:** CNN + Prophet + Exponential Smoothing hybrid → **20% accuracy improvement** in trend prediction.  
+- 🧩 **Emotion Recognition Research:** Fine-tuned transformer models with LLM reasoning for peaceful content recommendations.  
+- 🚀 **Scalable Impact:** Deployed ML models in high-stakes financial and SaaS environments impacting millions of users.  
 
 ---
 
