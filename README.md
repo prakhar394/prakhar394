@@ -102,7 +102,7 @@
 
 ### 📬 Let’s Connect  
 
-🌐 **Portfolio:** [datascienceportfol.io/prakhar_dungarwal](https://www.datascienceportfol.io/prakhar_dungarwal)  
+🌐 **Portfolio:** [github.io/prakhar394](https://prakhar394.github.io/)  
 💼 **LinkedIn:** [linkedin.com/in/prakhardungarwal](https://www.linkedin.com/in/prakhardungarwal/)  
 🧠 **GitHub:** [github.com/prakhar394](https://github.com/prakhar394)  
 ✉️ **Email:** [pd2782@columbia.edu](mailto:pd2782@columbia.edu)  
